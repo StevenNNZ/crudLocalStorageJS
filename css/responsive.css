@@ -1,0 +1,36 @@
+@media (max-width:545px){
+    .error, .registroSuccess{
+        width: 90%;
+    }
+}
+
+@media (max-width:500px){
+    .form input[type="submit"]{
+        width: 80%;
+        font-size: 18px;
+    }
+}
+
+@media (max-width:460px){
+    .header{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:460px){
+    .header{
+        font-size: 12px;
+    }
+
+    .form{
+        width: 75%;
+    }
+}
+
+@media (max-width:262px){
+    .header{
+        height: 120px;
+        line-height: 50px;
+        font-size: 12px;
+    }
+}
