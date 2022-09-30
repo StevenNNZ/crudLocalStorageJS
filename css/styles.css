@@ -54,6 +54,11 @@ body{
     width: 250px;
 }
 
+.mockup{
+    display:flex;
+    align-intems: center;
+}
+
 .usuarios{
     width: 100%;
     height: 29.3vh;
