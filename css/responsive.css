@@ -9,6 +9,11 @@
         width: 80%;
         font-size: 18px;
     }
+    
+    .mockup{
+        diplay: flex{
+            alig-items: left;
+        }
 }
 
 @media (max-width:460px){
